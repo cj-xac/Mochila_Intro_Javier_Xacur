@@ -1,0 +1,4 @@
+CHEATSHEET GIT GITHUB
+git init: sirve para inicializar un repositorios
+git mkdir: sirve para crear directorios (carpetas)
+git cd [ruta absoluta/relativa]: sirve para moverse entre directorios
