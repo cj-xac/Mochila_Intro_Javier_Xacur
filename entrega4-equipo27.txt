@@ -1,0 +1,9 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+-Los lenguajes de programación son la forma en que nos podemos comunicar con la computadora, este es su "idioma" y al igual que existen distintos idiomas para los humanos, hay diferentes idiomas para las computadoras y algunos lenguajes de programación están diseñados para funcionar en un entorno en especifico, en este caso un sistema operativo.
+
+¿Qué tipo de máquina virtual es virtualBox?
+-Es como un programa que nos permite crear computadoras virtuales dentro de nuestro ordenador, es muy útil para probar distintos sistemas operativos
+
+¿Si tengo más de una máquina virtual instalada y una se rompe, esta afecta a las demás?
+-No, cada máquina virtual tiene su lugar dentro del ordenador y tiene recursos asignados especificamente para cada una, si una se rompe, no afecta a las demás.
+
